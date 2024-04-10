@@ -94,3 +94,4 @@ APIKit provides 3 body parameters type listed below:
 |`JSONBodyParameters`             |`Any`                                   |
 |`FormURLEncodedBodyParameters`   |`[String: Any]`                         |
 |`MultipartFormDataBodyParameters`|`[MultipartFormDataBodyParameters.Part]`|
+|`TextPlainParameters`            |`String`                                |
